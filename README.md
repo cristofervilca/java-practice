@@ -1,5 +1,14 @@
 # Java Practice
 Repositorio donde documento mi aprendizaje de Java.
 
-Objetivo: 
-Fortalecer fundamentos de porgramación y prepararme para Backend Development.
+Objetivos: 
+- Reforzar fundamentos de programación.
+- Mejorar lógica y resolución de problemas.
+- Prepararme para Backend Development.
+- Construir proyectos progresivamente.
+
+Tecnologías:
+- Java
+- IntelliJ IDEA / VS Code
+- Git
+- GitHub
